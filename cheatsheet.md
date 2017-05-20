@@ -2,7 +2,6 @@
 
 Remember to `git status`
 
-
 Centralized Version Control
 	CVS, SVN
 	One central server (each person checks out and merges changes to main server
@@ -187,3 +186,13 @@ wget it
 git am
 
 	
+=======
+# Remotes
+
+A remote is a server that is outside your computer, and stores a copy of your
+repository.
+
+# Checkout
+
+Use  git checkout to go from working back to the last commit.
+
